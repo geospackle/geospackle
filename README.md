@@ -6,7 +6,7 @@ I aim to write simple, readable, eloquent code that makes developers' lives easi
 
 When I don't have a terminal window open, I am probably banging on drums in my studio or putting the finishing touches on a guitar solo or vocal track. :fire::fire::fire:
 
-## I work with:
+## I work with
 <code><img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=python&logoColor=white" /></code>
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=black" /></code>
 <code><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /></code>
