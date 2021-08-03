@@ -4,7 +4,7 @@ I am currently working on a field data collection application that helps organiz
 
 I aim to write simple, readable, eloquent code that makes developers' lives easier when it's time to troubleshoot and refactor. I enjoy full stack development, dealing with data and building functional front end designs (especially geospatial data and visualizations).
 
-When I don't have a terminal window open, I am probably banging on drums in my studio or putting the finishing touches on a guitar solo or vocal track. :fire:
+When I don't have a terminal window open, I am probably banging on drums in my studio or putting the finishing touches on a guitar solo or vocal track. :fire::fire::fire:
 
 ## I work with:
 <code><img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=python&logoColor=white" /></code>
