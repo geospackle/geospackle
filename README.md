@@ -1,4 +1,4 @@
-### Hi there 👋! Here's a software developer from Brooklyn, NY.
+### Hi there 👋! Here's a software engineer from Brooklyn, NY.
 
 I am currently working on a field data collection application that helps organizations with data collection and management tasks and conforming to state and federal regulations.
 
