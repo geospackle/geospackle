@@ -2,7 +2,7 @@
 
 I am currently working on a field data collection application that helps organizations with data collection and management tasks and conforming to state and federal regulations.
 
-I aim to write simple, readable, eloquent code that makes developers' lives easier when it's time to troubleshoot and refactor. I enjoy full stack development, dealing with data and building functional front end designs (especially geospatial data and visualizations).
+I aim to write simple, readable, eloquent code that makes developers' lives easier when it's time to troubleshoot and refactor. I enjoy full stack development, dealing with data and building functional front end designs (especially geospatial data and data visualizations).
 
 When I don't have a terminal window open, I am probably banging on drums in my studio or putting the finishing touches on a guitar solo or vocal track. :fire::fire::fire:
 
