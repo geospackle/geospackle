@@ -1,4 +1,4 @@
-### Hi there 👋! Here's a software engineer from Brooklyn, NY.
+# Hi there 👋! Here's a software engineer from Brooklyn, NY.
 
 I work across the backend in environmental tech, doing everything from CI code to database design.
 
