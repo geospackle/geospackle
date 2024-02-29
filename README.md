@@ -1,6 +1,6 @@
-# Hi there 👋! Here's a software engineer from Brooklyn, NY.
+# Hi there 👋!
 
-I work across the backend in environmental tech, doing everything from CI code to database design.
+I work across the backend stack in environmental tech, doing everything from CI pipelines to database design.
 
 When I don't have a terminal window open, I am probably hammering on the drums in my studio or putting the finishing touches on a guitar solo or vocal track. :hammer::fire::guitar::fire::microphone:
 
